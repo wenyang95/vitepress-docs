@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "天工开物,共起万物"
+  text: "天工"
+  tagline: 项目说明文档
   actions:
     - theme: brand
       text: Markdown Examples
