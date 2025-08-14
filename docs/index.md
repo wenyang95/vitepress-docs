@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "天工开物,共起万物"
-  text: "天工"
-  tagline: 项目说明文档
+  text: ""
+  tagline:
   actions:
     - theme: brand
       text: Markdown Examples
